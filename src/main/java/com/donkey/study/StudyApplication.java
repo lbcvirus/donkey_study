@@ -3,6 +3,9 @@ package com.donkey.study;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+/**
+ * 동키
+ */
 @SpringBootApplication
 public class StudyApplication {
 
