@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 동키23
+ * 동키233
  */
 @SpringBootApplication
 public class StudyApplication {
